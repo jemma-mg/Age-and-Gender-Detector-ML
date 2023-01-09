@@ -18,3 +18,8 @@ Simple Age and Gender Detector using Machine Learning
 7. Upload the image you want to detect
 8. Click on detect button
 9. View Results
+
+## Sample Outputs
+![Sample Output 1]()
+![Sample Output 2]()
+![Sample Output 3]()
