@@ -20,6 +20,6 @@ Simple Age and Gender Detector using Machine Learning
 9. View Results
 
 ## Sample Outputs
-![Sample Output 1]()
-![Sample Output 2]()
-![Sample Output 3]()
+![Sample Output 1](https://github.com/jemma-mg/Age-and-Gender-Detector-ML/blob/main/images/output_1.png)
+![Sample Output 2](https://github.com/jemma-mg/Age-and-Gender-Detector-ML/blob/main/images/output_2.png)
+![Sample Output 3](https://github.com/jemma-mg/Age-and-Gender-Detector-ML/blob/main/images/output_3.png)
